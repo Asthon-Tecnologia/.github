@@ -1,6 +1,6 @@
 # Asthon Tecnologia
 
-![Logo da Asthon Tecnologia](https://asthon.com.br/assets/img/logo.png)
+![asthon](https://github.com/user-attachments/assets/80cdc2dc-afbc-4eed-b946-8481490cfb89)
 
 **Transformando conectividade em soluções inteligentes**
 
