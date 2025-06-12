@@ -1,6 +1,11 @@
 # Asthon Tecnologia
 
-![asthon](https://github.com/user-attachments/assets/80cdc2dc-afbc-4eed-b946-8481490cfb89)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/e5c9a877-256b-4341-b5c1-00c55a42619b"  
+       alt="Logo da Asthon Tecnologia" 
+       width="50%" 
+       style="display: block; margin-left: auto; margin-right: auto;" />
+</div>
 
 **Transformando conectividade em soluções inteligentes**
 
@@ -60,9 +65,15 @@ Somos uma startup fundada em 2023 em Itajubá, Minas Gerais, especializada em fo
 
 ## 📬 Contato
 
-- **E-mail**: [contato@asthon.com.br](mailto:contato@asthon.com.br)
-- **Telefone**: (35) 9969-6300
-- **Endereço**: Av. BPS, 1303 – Pce Sala 37 – Pinheirinho, Itajubá – MG, 37500-903
+- **E-mail**: [Vitória(CEO e co-fundadora)](vitoria.baratella@asthon.com.br)
+- **Telefone**: (11) 97563-5251
+
+
+- **E-mail**: [Caio(CTO e co-fundador)](caio.tacito@asthon.com.br)
+- **Telefone**: (31) 98573-6946
+
+## Endereço
+- Av. BPS, 1303 – Pce Sala 37 – Pinheirinho, Itajubá – MG, 37500-903
 
 ---
 
@@ -70,7 +81,7 @@ Somos uma startup fundada em 2023 em Itajubá, Minas Gerais, especializada em fo
 
 - [🌐 Website Oficial](https://asthon.com.br/)
 - [🔗 LinkedIn](https://www.linkedin.com/company/asthon-tecnologia)
-- [📸 Instagram](https://www.instagram.com/asthon.tecnologia)
+- [📸 Instagram](https://www.instagram.com/asthontecnologia)
 
 ---
 
