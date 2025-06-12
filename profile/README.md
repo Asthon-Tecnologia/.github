@@ -65,17 +65,24 @@ Somos uma startup fundada em 2023 em Itajubá, Minas Gerais, especializada em fo
 
 ## 📬 Contato
 
-- **E-mail**: [Vitória(CEO e co-fundadora)](vitoria.baratella@asthon.com.br)
+- **E-mail**: vitoria.baratella@asthon.com.br
 - **Telefone**: (11) 97563-5251
 
 
-- **E-mail**: [Caio(CTO e co-fundador)](caio.tacito@asthon.com.br)
+- **E-mail**: caio.tacito@asthon.com.br
 - **Telefone**: (31) 98573-6946
 
-## Endereço
-- Av. BPS, 1303 – Pce Sala 37 – Pinheirinho, Itajubá – MG, 37500-903
+## Contato e Localização
 
----
+<div style="text-align: center;">
+  <p style="font-size: 16px; font-weight: bold;">Endereço:</p>
+  <p style="font-size: 14px;">
+    Av. BPS 1303 - Campus UNIFEI - Prédio J3 - sala 26 - Bairro Pinheirinho<br>
+    Itajubá - MG - 37500-903
+  </p>
+</div>
+
+**Entre em contato conosco!**
 
 ## 🔗 Links Úteis
 
